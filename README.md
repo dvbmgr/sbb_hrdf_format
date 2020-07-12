@@ -1,5 +1,5 @@
 # sbb_hrdf_format
-(mostly) Complete formal definition of SBB's HRDF data format, used with `hrdf_parser`
+(mostly) Complete formal definition of SBB's HRDF data format, used with [hrdf_parser](https://github.com/dvbmgr/hrdf_parser).
 
 ## General informations
 All INI must contain a `[GENERAL]` block, which contains the section `files`. Theses are the sections that will be parsed. They are separted by commas.
